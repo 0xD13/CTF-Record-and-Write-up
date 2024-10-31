@@ -4,21 +4,21 @@
 
 |Category|Challenge|Difficulty|
 |-|-|-|
-|Cryptography|[C3](<picoCTF 2024/Cryptography/C3.md>)|Medium|
-|Cryptography|[Custom encryption](<cryptography/Custom encryption.md>)|Medium|
-|Cryptography|[interencdec](<cryptography/interencdec.md>)|Easy|
-|Forensics|[Blast from the past](<forensics/Blast from the past.md>)|Medium|
-|Forensics|[Mob psycho](<forensics/Mob psycho.md>)|Medium|
-|General Skills|[SansAlpha](<general Skills/SansAlpha.md>)|Medium|
-|General Skills|[dont-you-love-banners](<general Skills/dont-you-love-banners.md>)|Medium|
-|General Skills|[Binary Search](<general Skills/Binary Search.md>)|Easy|
-|General Skills|[binhexa](<general Skills/binhexa.md>)|Easy
-|General Skills|[Blame Game](<general Skills/Blame Game.md>)|Easy|
-|General Skills|[Collaborative Development](<general Skills/Collaborative Development.md>)|Easy|
-|General Skills|[Commitment Issues](<general Skills/Commitment Issues.md>)|Easy|
-|General Skills|[endianness](<general Skills/endianness.md>)|Easy|
-|General Skills|[Time Machine](<general Skills/Time Machine.md>)|Easy|
-|Web Exploitation|[Trickster](<web%20exploitation/Trickster.md>)|Medium|
+|Cryptography|[C3](<picoCTF 2024/cryptography/C3.md>)|Medium|
+|Cryptography|[Custom encryption](<picoCTF 2024/cryptography/Custom encryption.md>)|Medium|
+|Cryptography|[interencdec](<picoCTF 2024/cryptography/interencdec.md>)|Easy|
+|Forensics|[Blast from the past](<picoCTF 2024/forensics/Blast from the past.md>)|Medium|
+|Forensics|[Mob psycho](<picoCTF 2024/forensics/Mob psycho.md>)|Medium|
+|General Skills|[SansAlpha](<picoCTF 2024/general Skills/SansAlpha.md>)|Medium|
+|General Skills|[dont-you-love-banners](<picoCTF 2024/general Skills/dont-you-love-banners.md>)|Medium|
+|General Skills|[Binary Search](<picoCTF 2024/general Skills/Binary Search.md>)|Easy|
+|General Skills|[binhexa](<picoCTF 2024/general Skills/binhexa.md>)|Easy
+|General Skills|[Blame Game](<picoCTF 2024/general Skills/Blame Game.md>)|Easy|
+|General Skills|[Collaborative Development](<picoCTF 2024/general Skills/Collaborative Development.md>)|Easy|
+|General Skills|[Commitment Issues](<picoCTF 2024/general Skills/Commitment Issues.md>)|Easy|
+|General Skills|[endianness](<picoCTF 2024/general Skills/endianness.md>)|Easy|
+|General Skills|[Time Machine](<picoCTF 2024/general Skills/Time Machine.md>)|Easy|
+|Web Exploitation|[Trickster](<picoCTF 2024/web exploitation/Trickster.md>)|Medium|
 
 ## Unsorted
 [13](<Unsorted/13.md>)  
