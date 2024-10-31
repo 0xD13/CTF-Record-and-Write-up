@@ -4,7 +4,7 @@
 
 |Category|Challenge|Difficulty|
 |-|-|-|
-|Cryptography|[C3](<cyptography/C3.md>)|Medium|
+|Cryptography|[C3](<picoCTF 2024/Cryptography/C3.md>)|Medium|
 |Cryptography|[Custom encryption](<cryptography/Custom encryption.md>)|Medium|
 |Cryptography|[interencdec](<cryptography/interencdec.md>)|Easy|
 |Forensics|[Blast from the past](<forensics/Blast from the past.md>)|Medium|
