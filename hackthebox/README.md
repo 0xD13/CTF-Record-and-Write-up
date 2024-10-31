@@ -6,6 +6,7 @@
 |Category|Challenge|Difficulty|
 |-|-|-|
 |Crypto|[sekur julius](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/crypto/sekur%20julius.md)|Very Easy|
+|Crypto|[sugar free candies](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/crypto/sugar%20free%20candies.md)|Very Easy|
 |Forebsics|[The Shortcut Haunting](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/forensics/The%20Shortcut%20Haunting.md)|Very Easy|
 |Forebsics|[Sp00ky Theme](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/forensics/Sp00ky%20Theme.md)|Very Easy|
 |Forebsics|[Forbidden Manuscript](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/forensics/Forbidden%20Manuscript.md)|Very Easy|
