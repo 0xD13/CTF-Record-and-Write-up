@@ -5,6 +5,11 @@
 
 |Category|Challenge|Difficulty|
 |-|-|-|
+|Crypto|[sekur julius](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/crypto/sekur%20julius.md)|Very Easy|
 |Forebsics|[The Shortcut Haunting](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/forensics/The%20Shortcut%20Haunting.md)|Very Easy|
 |Forebsics|[Sp00ky Theme](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/forensics/Sp00ky%20Theme.md)|Very Easy|
 |Forebsics|[Forbidden Manuscript](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/forensics/Forbidden%20Manuscript.md)|Very Easy|
+|pwn|[El Teteo](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/pwn/El%20Teteo.md)|Very Easy|
+|pwn|[Mathematricks](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/pwn/Mathematricks.md)|Very Easy|
+|rev|[Graverobber](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/rev/Graverobber.md)|Very Easy|
+|rev|[SpookyPass](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/rev/SpookyPass.md)|Very Easy|
