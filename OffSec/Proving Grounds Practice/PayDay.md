@@ -309,8 +309,6 @@ patrick
 www-data@payday:/home$ cd patrick/
 www-data@payday:/home/patrick$ ls
 local.txt
-www-data@payday:/home/patrick$ cat local*
-09dbc6fd4d2fa4b494b66ef6d547ff72
 ```
 
 ### Try to privilege escalation
@@ -361,6 +359,4 @@ root@payday:/var/www/skins# cd /root/
 root@payday:~# cat 
 .bash_history  capture.cap    proof.txt      
 .bashrc        .profile       .ssh/
-root@payday:~# cat pr*
-8f42c125de697c586c194fcf9853c339                    
 ```
