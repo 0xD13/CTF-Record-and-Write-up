@@ -123,7 +123,7 @@ share
 cat local.txt
 ```
 
-### Try to Privilege escalation
+### Try to privilege escalation
 
 現在要嘗試提權，我改用一個介面比較好用的 reverse shell 監聽器，叫做 [Penelope](https://github.com/brightio/penelope)，重新接上靶機
 ```shell
