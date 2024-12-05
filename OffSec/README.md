@@ -1,3 +1,11 @@
+
+## Challenge List
+
+|Challenge|Difficulty|
+|-|-|
+|[Hetemit](Proving%20Grounds%20Practice/Hetemit.md)|Intermediate|
+|[PayDay](Proving%20Grounds%20Practice/PayDay.md)|Intermediate|
+
 ## Tool list
 
 ### Information gathering
@@ -8,5 +16,6 @@
 ### Reverse shell
 - [penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
 
-### Try to Privilege escalation
+### Privilege escalation
 - [LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) - Linux Privilege Escalation Awesome Script
+

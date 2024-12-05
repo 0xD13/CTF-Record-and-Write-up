@@ -1,7 +1,9 @@
-# picoCTF Write-up
 
-## picoCTF 2024 
+## Challenge List
 
+### picoCTF 2024 
+
+🏆 Rank: #572/6957, Solved: 31/47
 |Category|Challenge|Difficulty|
 |-|-|-|
 |Cryptography|[C3](<picoCTF 2024/cryptography/C3.md>)|Medium|
@@ -20,7 +22,7 @@
 |General Skills|[Time Machine](<picoCTF 2024/general Skills/Time Machine.md>)|Easy|
 |Web Exploitation|[Trickster](<picoCTF 2024/web exploitation/Trickster.md>)|Medium|
 
-## Unsorted
+### Unsorted
 [13](<Unsorted/13.md>)  
 [Easy Peasy](<Unsorted/Easy Peasy.md>)  
 [Local Authority](<Unsorted/Local Authority.md>)  
