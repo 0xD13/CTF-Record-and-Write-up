@@ -18,7 +18,7 @@
 |rev|[Graverobber](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/rev/Graverobber.md)|Very Easy|
 |rev|[SpookyPass](/hackthebox/Hack%20The%20Boo%202024%20-%20Practice/rev/SpookyPass.md)|Very Easy|
 
-## Tool list
+## Tool List
 
 ### Crypto
 - [SageMath](https://www.sagemath.org/) - A computer algebra system (CAS) with features covering many aspects of mathematics

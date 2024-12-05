@@ -6,7 +6,7 @@
 |[Hetemit](Proving%20Grounds%20Practice/Hetemit.md)|Intermediate|
 |[PayDay](Proving%20Grounds%20Practice/PayDay.md)|Intermediate|
 
-## Tool list
+## Tool List
 
 ### Information gathering
 - [Nmap](https://nmap.org/) - Network discovery and security auditing
