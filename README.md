@@ -3,3 +3,6 @@
 I will write CTF and lab write-ups here, mostly in Chinese. Each folder's `README.md` will include the tools I used and links to my notes.
 
 ## Recent post
+
+### 2024/12/06
+- [Write-up for 'Proving Grounds Practice - Squid'](/OffSec/Proving%20Grounds%20Practice/Squid.md)
