@@ -1,4 +1,4 @@
-# reconstruction
+# Reconstruction
 
 ### Nmap Scaning 
 ```
@@ -143,3 +143,13 @@ I've just setup the new WebSOC! This should hopefully help us catch these filthy
 TODO: remove leftover passwords from testing                                           
 ```
 - 1.05.2020.pcap
+- 29.04.2020.pcap  
+在這個裡面找到一個登入成功的密碼 `1edfa9b54a7c0ec28fbc25babb50892e`
+![](img/Reconstruction/1.png)
+的確可以登入站台
+![](img/Reconstruction/2.png)
+- 30.04.2020.pcap
+
+四個檔案看了好久，都沒有什麼收穫，決定換條路
+
+### searchsploit "Werkzeug"
