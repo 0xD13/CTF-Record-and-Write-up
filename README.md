@@ -4,5 +4,9 @@ I will write CTF and lab write-ups here, mostly in Chinese. Each folder's `READM
 
 ## Recent post
 
+### 2024/12/08
+
+- [TryHackMe - The Sticker Shop](Tryhackme/The%20Sticker%20Shop.md)
+
 ### 2024/12/06
-- [Write-up for 'Proving Grounds Practice - Squid'](/OffSec/Proving%20Grounds%20Practice/Squid.md)
+- [Proving Grounds Practice - Squid](/OffSec/Proving%20Grounds%20Practice/Squid.md)
