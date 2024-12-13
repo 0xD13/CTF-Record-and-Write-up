@@ -7,6 +7,7 @@
 |[PayDay](Proving%20Grounds%20Practice/PayDay.md)|Intermediate|
 |[Squid](Proving%20Grounds%20Practice/Squid.md)|Easy|
 |[Flimsy](Proving%20Grounds%20Practice/Flimsy.md)|Easy|
+|[ClamAV](Proving%20Grounds%20Practice/ClamAV.md)|Easy|
 
 
 ## Tool List

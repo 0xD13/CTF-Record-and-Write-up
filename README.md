@@ -6,6 +6,7 @@ I will write CTF and lab write-ups here, mostly in Chinese. Each folder's `READM
 
 ### 2024/12/13
 
+- [Proving Grounds Practice - ClamAV](/OffSec/Proving%20Grounds%20Practice/ClamAV.md)
 - [Proving Grounds Practice - Flimsy](/OffSec/Proving%20Grounds%20Practice/Flimsy.md)
 
 ### 2024/12/08
