@@ -7,6 +7,7 @@ I will write CTF and lab write-ups here, mostly in Chinese. Each folder's `READM
 ### 2024/12/18
 
 - [Proving Grounds Practice - Hawat](/OffSec/Proving%20Grounds%20Practice/Hawat.md)
+- [Proving Grounds Practice - Wheel](/OffSec/Proving%20Grounds%20Practice/Wheel.md)
 
 ### 2024/12/13
 
