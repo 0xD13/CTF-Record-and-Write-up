@@ -4,6 +4,10 @@ I will write CTF and lab write-ups here, mostly in Chinese. Each folder's `READM
 
 ## Recent post
 
+### 2024/12/18
+
+- [Proving Grounds Practice - Hawat](/OffSec/Proving%20Grounds%20Practice/Hawat.md)
+
 ### 2024/12/13
 
 - [Proving Grounds Practice - ClamAV](/OffSec/Proving%20Grounds%20Practice/ClamAV.md)
