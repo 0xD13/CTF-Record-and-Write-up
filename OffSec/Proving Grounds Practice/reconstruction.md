@@ -1,6 +1,6 @@
 # Reconstruction
 
-### Nmap Scaning 
+### Nmap Scanning 
 ```
 ┌──(kali㉿kali)-[~]
 └─$ sudo nmap -sC -sV -A 192.168.234.103 -p-     

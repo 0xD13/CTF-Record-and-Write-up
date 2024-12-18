@@ -10,6 +10,9 @@
 |[ClamAV](Proving%20Grounds%20Practice/ClamAV.md)|Easy|
 |[Hawat](Proving%20Grounds%20Practice/Hawat.md)|Easy|1 hour, 40 mins|
 |[Wheel](Proving%20Grounds%20Practice/Wheel.md)|Easy||
+|[Detection](Proving%20Grounds%20Practice/Detection.md)|Easy|40 mins|
+
+
 
 
 ## Tool List

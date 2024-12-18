@@ -1,6 +1,6 @@
 # Hetemit
 
-### Nmap Scaning 
+### Nmap Scanning 
 
 ```
 ┌──(kali㉿kali)-[~]

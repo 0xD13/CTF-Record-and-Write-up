@@ -1,6 +1,6 @@
 # ClamAV
 
-### Nmap Scaning 
+### Nmap Scanning 
 
 ```
                                                                                                                          

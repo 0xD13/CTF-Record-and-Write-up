@@ -1,6 +1,6 @@
 # Flimsy
 
-### Nmap Scaning 
+### Nmap Scanning 
 
 ```
 	┌─(kali?kali)-[~]
